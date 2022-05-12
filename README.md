@@ -1,16 +1,6 @@
-# dmazcofresh
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20220512_104437_app trai dmazcofresh](https://user-images.githubusercontent.com/83032155/168043006-99d2a733-6f7f-4164-84ba-d76747e8efce.jpg)
+![Screenshot_20220512_104144_app trai dmazcofresh](https://user-images.githubusercontent.com/83032155/168043015-2159fd02-a58d-4b25-88fe-231b47138391.jpg)
+![Screenshot_20220512_104153_app trai dmazcofresh](https://user-images.githubusercontent.com/83032155/168043042-1a611837-68f7-48ca-a64b-f283b396b495.jpg)
+![Screenshot_20220512_104315_app trai dmazcofresh](https://user-images.githubusercontent.com/83032155/168043063-ead68fac-f6fb-4a3c-941f-bfe4fe155470.jpg)
+![Screenshot_20220512_104406_app trai dmazcofresh](https://user-images.githubusercontent.com/83032155/168043091-723a123f-d5cd-4b47-b0c4-8788ccd0cff4.jpg)
+![Screenshot_20220512_104426_app trai dmazcofresh](https://user-images.githubusercontent.com/83032155/168043107-f2b9a9d5-b049-4a51-87cd-584371bf229a.jpg)
