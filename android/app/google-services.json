@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "959392587801",
+    "project_id": "dmazco-fresh",
+    "storage_bucket": "dmazco-fresh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959392587801:android:188ca4b3f527ba106e0a88",
+        "android_client_info": {
+          "package_name": "app.trai.dmazcofresh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959392587801-1v21gf9ifcnvkhddjm688e3dd6jso1a9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.trai.dmazcofresh",
+            "certificate_hash": "3fe4094910e6d243feed7d79f09e8b4fa61fa4ef"
+          }
+        },
+        {
+          "client_id": "959392587801-jir15lerolkkd9oc341pqenvricpqt2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvUXa0EFKekRVV5WnTZ7oU-Zq-TpC5dSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959392587801-jir15lerolkkd9oc341pqenvricpqt2d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "959392587801-3etgd0q4gcd2jq5hsqpa1jau6qljjl06.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dmazco.www.dmazcofresh"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
